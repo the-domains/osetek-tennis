@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Twój tenis - Moja pasja!]]></title>
+        <description><![CDATA[Twój tenis - Moja pasja!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 22:02:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c00b44d-ed8c-4053-9a62-541d72f5c802.png">]]></description>
+            <link>undefined0be4fc5a-d26b-4af6-8875-1d53571e6f47/index.html</link>
+            <guid isPermaLink="false">0be4fc5a-d26b-4af6-8875-1d53571e6f47</guid>
+            <pubDate>Tue, 29 Dec 2015 22:02:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
