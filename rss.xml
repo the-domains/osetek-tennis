@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Twój tenis - Moja pasja!]]></title>
         <description><![CDATA[Twój tenis - Moja pasja!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/osetek-tennis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 22:02:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 22:05:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/osetek-tennis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c00b44d-ed8c-4053-9a62-541d72f5c802.png">]]></description>
-            <link>undefined0be4fc5a-d26b-4af6-8875-1d53571e6f47/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba63642b2d1a8f02fba8160af9ff89dcb9bcf802.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/osetek-tennis/0be4fc5a-d26b-4af6-8875-1d53571e6f47/index.html</link>
             <guid isPermaLink="false">0be4fc5a-d26b-4af6-8875-1d53571e6f47</guid>
-            <pubDate>Tue, 29 Dec 2015 22:02:31 GMT</pubDate>
+            <pubDate>Tue, 29 Dec 2015 22:04:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
