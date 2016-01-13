@@ -1,20 +1,4 @@
-name: Osetek Tennis
-favicon: null
-layout_spectrum: 0.66952
-typography_spectrum: 0.65967
-title: 'Twój tenis - Moja pasja!'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#f0e936'
     - '#7f7f7f'
     - '#c2c2c2'
-  brandStrength: 0.3125
+  brandStrength: 0.764358
   lightness: 0.875
-  saturation: 0.1875
   rhythmicContrast: 0.25
+  saturation: 0.1875
+cta: {}
+layout_spectrum: 0.66952
+name: Osetek Tennis
+opengraph: {}
 purpose: []
+typography_spectrum: 0.65967
